@@ -11,6 +11,7 @@
 - [凑零钱问题](./src/dynamic-programming/凑零钱问题.md)
 
 ### 回溯算法
+- [组合总和2](./src/backtracking/组合总和2.md)
 - [组合总和](./src/backtracking/组合总和.md)
 - [N皇后](./src/backtracking/N皇后.md)
 - [全排列](./src/backtracking/全排列.md)
