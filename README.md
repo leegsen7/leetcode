@@ -28,6 +28,7 @@
 - [数组中的最长山脉](./src/two-pointers/数组中的最长山脉.md)
 - [删除排序数组中的重复项](./src/two-pointers/删除排序数组中的重复项.md)
 - [移除元素](./src/two-pointers/移除元素.md)
+- [寻找重复数](./src/two-pointers/寻找重复数.md)
 
 ### 数学
 - [水壶问题](./src/math/水壶问题.md)
