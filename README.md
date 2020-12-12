@@ -31,5 +31,8 @@
 - [寻找重复数](./src/two-pointers/寻找重复数.md)
 - [两个数组的交集](./src/two-pointers/两个数组的交集.md)
 
+### 深度优先搜索
+- [括号生成](./src/dfs/括号生成.md)
+
 ### 数学
 - [水壶问题](./src/math/水壶问题.md)
