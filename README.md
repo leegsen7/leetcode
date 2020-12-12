@@ -10,6 +10,7 @@
 - [最长递增子序列](./src/dynamic-programming/最长递增子序列.md)
 - [凑零钱问题](./src/dynamic-programming/凑零钱问题.md)
 - [买卖股票的最佳时机](./src/dynamic-programming/买卖股票的最佳时机.md)
+- [买卖股票的最佳时机2](./src/dynamic-programming/买卖股票的最佳时机2.md)
 
 ### 回溯算法
 - [组合总和2](./src/backtracking/组合总和2.md)
