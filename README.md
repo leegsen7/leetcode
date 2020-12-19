@@ -13,8 +13,8 @@
 - [买卖股票的最佳时机2](./src/dynamic-programming/买卖股票的最佳时机2.md)
 
 ### 回溯算法
-- [组合总和2](./src/backtracking/组合总和2.md)
 - [组合总和](./src/backtracking/组合总和.md)
+- [组合总和2](./src/backtracking/组合总和2.md)
 - [N皇后](./src/backtracking/N皇后.md)
 - [全排列](./src/backtracking/全排列.md)
 - [复原IP地址](./src/backtracking/复原IP地址.md)
@@ -35,6 +35,9 @@
 
 ### 深度优先搜索
 - [括号生成](./src/dfs/括号生成.md)
+
+### 链表
+- [两数相加](./src/linked-list/两数相加.md)
 
 ### 数学
 - [水壶问题](./src/math/水壶问题.md)
