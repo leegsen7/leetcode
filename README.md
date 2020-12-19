@@ -38,6 +38,7 @@
 
 ### 链表
 - [两数相加](./src/linked-list/两数相加.md)
+- [合并两个有序链表](./src/linked-list/合并两个有序链表.md)
 
 ### 数学
 - [水壶问题](./src/math/水壶问题.md)
