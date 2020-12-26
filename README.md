@@ -40,5 +40,8 @@
 - [两数相加](./src/linked-list/两数相加.md)
 - [合并两个有序链表](./src/linked-list/合并两个有序链表.md)
 
+### 滑动窗口
+- [最大连续1的个数3](./src/sliding-window/最大连续1的个数3.md)
+
 ### 数学
 - [水壶问题](./src/math/水壶问题.md)
