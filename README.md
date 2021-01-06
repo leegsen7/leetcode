@@ -32,6 +32,7 @@
 - [移除元素](./src/two-pointers/移除元素.md)
 - [寻找重复数](./src/two-pointers/寻找重复数.md)
 - [两个数组的交集](./src/two-pointers/两个数组的交集.md)
+- [颜色分类](./src/two-pointers/颜色分类.md)
 
 ### 深度优先搜索
 - [括号生成](./src/dfs/括号生成.md)
