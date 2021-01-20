@@ -18,6 +18,7 @@
 - [N皇后](./src/backtracking/N皇后.md)
 - [全排列](./src/backtracking/全排列.md)
 - [复原IP地址](./src/backtracking/复原IP地址.md)
+- [子集](./src/backtracking/子集.md)
 
 ### 栈
 - [有效的括号](./src/stack/有效的括号.md) 
