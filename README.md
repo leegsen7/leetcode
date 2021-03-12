@@ -11,6 +11,7 @@
 - [凑零钱问题](./src/dynamic-programming/凑零钱问题.md)
 - [买卖股票的最佳时机](./src/dynamic-programming/买卖股票的最佳时机.md)
 - [买卖股票的最佳时机2](./src/dynamic-programming/买卖股票的最佳时机2.md)
+- [最长有效括号](./src/dynamic-programming/最长有效括号.md)
 
 ### 回溯算法
 - [组合总和](./src/backtracking/组合总和.md)
