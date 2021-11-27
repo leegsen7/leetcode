@@ -9,6 +9,7 @@
 - [最大子序和](./src/dynamic-programming/最大子序和.md)
 - [最长递增子序列](./src/dynamic-programming/最长递增子序列.md)
 - [凑零钱问题](./src/dynamic-programming/凑零钱问题.md)
+- [零钱兑换2](./src/dynamic-programming/零钱兑换2.md)
 - [买卖股票的最佳时机](./src/dynamic-programming/买卖股票的最佳时机.md)
 - [买卖股票的最佳时机2](./src/dynamic-programming/买卖股票的最佳时机2.md)
 - [最长有效括号](./src/dynamic-programming/最长有效括号.md)
