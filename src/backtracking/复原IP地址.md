@@ -52,3 +52,32 @@ var restoreIpAddresses = function(s) {
   return res
 };
 ```
+
+#### 标准解法
+```javascript
+var restoreIpAddresses = function(s) {
+  if (s.length < 4) return []
+  var res = []
+  const dp = (index, self) => {
+    // 全部选择完且长度为4
+    if(self.length === 4) {
+      if (index === s.length) {
+        res.push(self.join('.'))
+      }
+      return
+    }
+    // ip地址最多可选3位
+    for (let k = 1; k < 4; k++) {
+      const ip = s.substr(index, k)
+      if (!ip || /^0\d+/.test(ip) || ip > 255) {
+        continue
+      }
+      self.push(ip)
+      dp(index + k, self)
+      self.pop()
+    }
+  }
+  dp(0, [])
+  return res
+};
+```
